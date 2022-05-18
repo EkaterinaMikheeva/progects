@@ -1,2 +1,2 @@
-# progects
+# projects
 проекты по учебе 
